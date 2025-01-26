@@ -1,4 +1,5 @@
 # TP Automatisation du developpement - Test - Rendu 3
+## BRITO Clément
 
 Mini projet pour le rendu numéro 3 du cours d'automatisation du développement sur les tests.
 
